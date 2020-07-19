@@ -2172,7 +2172,7 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": 0,
-            "sound": "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1092609235%3Fsecret_token%3Ds-DVnX4m6VwNS&color=%23299fe8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/lucassalgade\" title=\"Lucas Salgado\" target=\"_blank\" style=\"color: #299fe8; text-decoration: none;\">Lucas Salgado</a> · <a href=\"https://soundcloud.com/lucassalgade/sets/senha/s-DVnX4m6VwNS\" title=\"\"Senha\"\" target=\"_blank\" style=\"color:#299fe8; text-decoration: none;\"></a></div>",
+            "sound": "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1095192331%3Fsecret_token%3Ds-Gd7uCJM8AdC&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/lucassalgade\" title=\"Lucas Salgado\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Lucas Salgado</a> · <a href=\"https://soundcloud.com/lucassalgade/sets/lucas/s-Gd7uCJM8AdC\" title=\"Lucas\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Lucas</a></div>",
             "autoplay": false,
             "fullWidth": true,
             "bgColor": "#fff"
@@ -2182,8 +2182,8 @@
             "Extension"
           ],
           "_afterNavbarItem": false,
-          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1092609235%3Fsecret_token%3Ds-DVnX4m6VwNS&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=https%3A//api.soundcloud.com/playlists/1092609235%3Fsecret_token%3Ds-DVnX4m6VwNS",
+          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1095192331%3Fsecret_token%3Ds-Gd7uCJM8AdC&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=https%3A//api.soundcloud.com/playlists/1095192331%3Fsecret_token%3Ds-Gd7uCJM8AdC",
           "_name": "soundcloud2",
           "_anchor": "soundcloud2-v"
         },
